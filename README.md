@@ -12,7 +12,7 @@ description: 這裡是學生時代隨手紀錄的一些技術小品，如果覺�
 
 
 
-I would like to insert the chinese word.
+
 
 
 
