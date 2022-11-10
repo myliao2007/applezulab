@@ -12,7 +12,7 @@ description: 這裡是學生時代隨手紀錄的一些技術小品，如果覺�
 
 
 
-本著作係採用[創用姓名標示 3.0 台灣 授權條款](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F3.0%2Ftw%2F\&sa=D\&sntz=1\&usg=AOvVaw0kKB19u22X4HWDL19ITbto).
+此網站內容係採用[創用姓名標示 3.0 台灣 授權條款](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F3.0%2Ftw%2F\&sa=D\&sntz=1\&usg=AOvVaw0kKB19u22X4HWDL19ITbto).
 
 
 
