@@ -9,4 +9,4 @@
   * [ARP spoofing 技術管控區網流量實例](security/arp-spoofing-sample.md)
 * [05-glibc 中文手冊](glibc-doc/README.md)
   * [GNU C 函式庫常見問題（FAQ）](glibc-doc/glibc-lib-faq.md)
-* [翻譯書籍](fan-yi-shu-ji.md)
+* [翻譯書籍](translations.md)
