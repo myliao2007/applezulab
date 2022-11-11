@@ -6,7 +6,7 @@
 
 SCTPLIB（圖9）在作業系統中是屬於user space的設計，利用raw socket的方式於user space運作SCTP協定，以服務應用層網路程式。SCTPLIB為了能夠達到於系統內部服務多個應用層網路程式，透過UDP協定 \[20] 與SCTP daemon協同運作，SCTP daemon是負責同步排程工作以及與底層溝通的任務。以作業系統層面比較LKSCTP與SCTPLIB之SCTP API實作，由於SCTPLIB位於user space，因此在kernel space與user space間需要額外付出資料複製的成本，因此預期LKSCTP效能會較SCTPLIB佳。
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>圖9、SCTPLIB之堆疊架構圖</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>圖9、SCTPLIB之堆疊架構圖</p></figcaption></figure>
 
 
 

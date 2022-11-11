@@ -8,7 +8,7 @@ IETF組織於2000年十月制定了SCTP（Stream Control Transmission Protocol�
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>圖1、SCTP association之建立與終止流程</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>圖1、SCTP association之建立與終止流程</p></figcaption></figure>
 
 
 
