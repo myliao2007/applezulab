@@ -1,4 +1,4 @@
-# 05-glibc 中文手冊
+# glibc 中文手冊
 
 這個地方是提供 glibc 的中文資訊，進行 glibc manual 正體中文化工程，
 
