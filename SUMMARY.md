@@ -15,6 +15,8 @@
   * [dnsmole](02-linux-proc/dnsmole.md)
   * [dos2unix 程式碼](02-linux-proc/dos2unix-sample-code.md)
   * [Function pointer in C](02-linux-proc/function-pointer-in-c.md)
+  * [GCC header limits.h](02-linux-proc/gcc-header-limits-h.md)
+  * [GDB 參數](02-linux-proc/gdb-parameters.md)
 * [網路服務推薦](saas/README.md)
 * [資訊安全](security/README.md)
   * [ARP spoofing 技術管控區網流量實例](security/arp-spoofing-sample.md)
