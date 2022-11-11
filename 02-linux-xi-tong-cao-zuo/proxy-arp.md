@@ -1,6 +1,6 @@
 # Proxy ARP
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Proxy ARP 示意圖</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Proxy ARP 示意圖</p></figcaption></figure>
 
 ASCII 圖例: \[LAN0]---\[(eth0)-LinuxBox-(eth1)]---\[LAN1]\
 \
