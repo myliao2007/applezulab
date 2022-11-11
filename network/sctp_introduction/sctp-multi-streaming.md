@@ -2,6 +2,6 @@
 
 SCTP 通訊協定之多重串流特性有別於傳統的 TCP 通訊協定單一串流（single-stream），當端點建立連線時，可預先相互協調將要使用的串流數量，並且能夠將不同類型的資料分別以不同的串流傳輸，當其中一個串流正在等待重新傳送的訊息時，其他串流仍然能夠繼續傳送，在每個串流中的 data chunk 都會有各自運作的的串流序號（SSN, stream sequence number），因此在某一個串流的封包重送動作並不會使其他串流因等待重送的封包而造成延遲。如應用於網頁伺服器時，不需為了同時傳輸多個檔案而建立多個連線，網頁與圖片能夠透過不同的串流傳輸，不需等待網頁傳輸完畢，圖片就能透過其他串流同時傳輸。多重串流之功能可以改善原本因單一串流時，必須等待遺失封包之重送而產生的 HoL Blocking 延遲，圖3是一個 SCTP 多重串流的示意圖，SCTP 兩端點透過一條 SCTP 連線（association）進行通訊，在接收與傳送的部份，可使用多個串流進行資料的傳送與接收。
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>圖3、SCTP多重串流示意圖</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>圖3、SCTP多重串流示意圖</p></figcaption></figure>
 
 在 Meixner \[8] 與Grinnem \[6] 等學者的研究中，他們已經探討了 SCTP 通訊協定之多重串流功能對於 HoL Blocking 延遲之改善，Meixner 等人以 FreeBSD 作業系統進行實驗分析 TCP 與 SCTP 通訊協定之效能，觀察 SCTP 通訊協定的幾項特性。首先作者比較了串流數目與發生封包遺失時所產生的延遲時間之關係，經過觀察多重串流之實驗結果得知，透過多重串流傳輸與單一串流傳輸資料時，當發生了封包遺失的情況時，使用多重串流傳輸所產生的延遲時間會比僅使用單一串流傳輸要來的少，因此可以瞭解到配置較多的串流數目確實能夠有效改善因 HoL Blocking 所產生的延遲時間。而在 Natarajan \[12] 等學者的研究中，他們將 SCTP 多重串流的功能應用於傳統之檔案傳輸協定（FTP, file transfer protocol）中，經由實驗的結果得知，使用多重串流也能夠提昇傳輸效能。

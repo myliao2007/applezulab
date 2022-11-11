@@ -10,7 +10,7 @@ OSGi \[1]\[2]\[3]\[4] 標準是1999年由Open Service Gateway Initiative協會�
 在Bundle狀態轉換時，INSTALL狀態表示已經成功載入Bundle，RESOLVED狀態表示Bundle所需要的class皆能夠使用，代表已經載入的Bundle準備好能夠進入STARTING狀態或是剛從STOPPING狀態轉換到RESOLVED狀態。在STARTING狀態中，Bundle已經是啟動的，並且會呼叫BundleActivator.start method。在ACTIVE狀態的Bundle處於正在運作中的情況，並且已呼叫過BundleActivator.start method。STOPING狀態表示Bundle正在停止，並且已經呼叫過BundleActivator.stop method。最後UNINSTALLED狀態代表Bundle已經卸載，於是Bundle的狀態也已經無法繼續轉移。\
 
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 bundle 狀態轉換\
 &#x20;**** \
