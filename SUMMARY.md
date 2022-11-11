@@ -81,6 +81,7 @@
 * [glibc 中文手冊](05-glibc-manual-zhtw.md)
 * [網路觀念](network.md)
   * [OSGi 平台](network/osgi-platform.md)
+  * [SCTP 通訊協定簡介](network/sctp\_introduction.md)
 * [實用工具](08-useful-tools.md)
   * [實驗基本數據製圖指令 gnuplot](08-useful-tools/gnuplot\_basic.md)
 * [交換連結](exchange-link.md)
