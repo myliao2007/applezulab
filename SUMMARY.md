@@ -5,7 +5,7 @@
 * [Linux 程式設計](linux-prog/README.md)
   * [\[C\] 產生亂數](02-linux-proc/generate\_random\_number.md)
   * [\[C\] Pointer and array](02-linux-proc/c-pointer-and-array.md)
-  * [Script:  strncmp](linux-prog/script-strncmp.md)
+  * [\[Script\]  strncmp](linux-prog/script-strncmp.md)
   * [\[C\] Linux 取得 HD 序號](02-linux-proc/Linux-Get-HD-Serial.md)
   * [\[C\] 程式範例-切割 subnet](02-linux-proc/split-netmask-sample.md)
   * [C struct 的使用](02-linux-proc/using-c-struct.md)
