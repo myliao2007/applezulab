@@ -4,13 +4,13 @@
 
 例如，可以指定網址，我輸入海芋小站的網址：http://www.inote.tw
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 就會出現像是月曆的畫面，我們可以選擇要看的時間點，比如我選擇了公元 2008 年（要點選有顏色的圓圈
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 就可以看到海芋小站 2008 年大概的樣子
 
