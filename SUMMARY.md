@@ -91,6 +91,7 @@
     * [7.  TCP 與 SCTP 通訊協定比較](network/sctp\_introduction/tcp-sctp-comparison.md)
     * [8. 參考文獻](network/sctp\_introduction/sctp-references.md)
   * [TCP over SCTP tunnel](network/tcp-over-sctp-tunnel.md)
+  * [TCP 與 SCTP 協定轉換機制](network/tcp-sctp-translator.md)
 * [實用工具](08-useful-tools.md)
   * [實驗基本數據製圖指令 gnuplot](08-useful-tools/gnuplot\_basic.md)
 * [交換連結](exchange-link.md)

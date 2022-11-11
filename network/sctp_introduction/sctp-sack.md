@@ -1,8 +1,8 @@
-# Page 3
+# 3 SACK 機制
 
 SCTP通訊協定預設採用選擇回覆（SACK, selective acknowledgement）之回報機制，SACK之功能主要協助接收端以確認封包資料之接收或通知傳送端之封包資料傳輸產生的區段（gaps）, 接收端將尚未接收到的TSN值記錄於SACK chunk並回送至傳送端，以通知傳送端進行新資料之傳輸或已傳送資料之重傳的動作，圖5為SCTP通訊協定之SACK chunk。
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>圖5、SCTP SACK Chunk格式</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>圖5、SCTP SACK Chunk格式</p></figcaption></figure>
 
 下列是SACK chunk中各參數的定義：
 
