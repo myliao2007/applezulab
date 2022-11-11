@@ -28,7 +28,7 @@ C compiler: gcc version 4.4.3\
 修改程式碼第 12 行的部分，**因為這塊記憶體每個 atom 的 data type 是 pointer，因此，在 malloc memory 時要注意每個 atom 的大小是配置 size of pointer，而不是 size of data type**。\
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 接著每個 str\[i] 所指的記憶體每個 atom 的 data type 是 character，所以這個程式正常的配置記憶體情況將如下圖所示 (程式碼 26 \~ 41 行)\
