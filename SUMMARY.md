@@ -36,6 +36,8 @@
   * [製作 patch 檔](02-linux-proc/make-patch.md)
   * [設計在背景執行的 Linux 程式](02-linux-proc/design-daemon-programs.md)
   * [讀取 STDIN (Standard INPUT) 範例程式](02-linux-proc/SAMPLE-CODE-of-read-STDIN.md)
+  * [關於 Linux CPU smp\_affinity](02-linux-proc/About-linux-smp\_affinity.md)
+  * [陣列名稱與指標](02-linux-proc/name-of-array-and-pointers.md)
 * [網路服務推薦](saas/README.md)
 * [資訊安全](security/README.md)
   * [ARP spoofing 技術管控區網流量實例](security/arp-spoofing-sample.md)
