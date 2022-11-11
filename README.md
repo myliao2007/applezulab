@@ -12,8 +12,6 @@ description: 這裡是學生時代隨手紀錄的一些技術小品，如果覺�
 
 
 
-[https://web.archive.org/web/20200306080029/http://applezulab.netdpi.net/](https://web.archive.org/web/20200306080029/http://applezulab.netdpi.net/)
-
 若內文無另外聲明，則預設授權方式以[創用CC 姓名標示 4.0 國際 授權條款](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F4.0%2F\&sa=D\&sntz=1\&usg=AOvVaw2jhFi9jj\_kiQ6\_veRT7-fj)釋出。
 
 

@@ -84,7 +84,7 @@
   * [SCTP 通訊協定簡介](network/sctp\_introduction/README.md)
     * [1 多重串流 (Multi-streaming)](network/sctp\_introduction/sctp-multi-streaming.md)
     * [2 路徑多宿 (Multi-homing)](network/sctp\_introduction/sctp-multi-homing.md)
-    * [Page 3](network/sctp\_introduction/sctp-sack.md)
+    * [3 SACK 機制](network/sctp\_introduction/sctp-sack.md)
     * [4 Path MTU Discovery](network/sctp\_introduction/4-path-mtu-discovery.md)
     * [5 Ordered/Unordered 傳送機制](network/sctp\_introduction/5-ordered-unordered.md)
     * [6. SCTP API](network/sctp\_introduction/6-sctp-api.md)
