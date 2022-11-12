@@ -89,7 +89,6 @@
   * [資安工具](security-1/zi-an-gong-ju.md)
   * [資安相關網站](security-1/zi-an-xiang-guan-wang-zhan.md)
   * [限制 localhost 的 P2P 上傳流量](security-1/xian-zhi-localhost-de-p2p-shang-chuan-liu-liang.md)
-* [glibc 中文手冊](05-glibc-manual-zhtw.md)
 * [實用工具](08-useful-tools.md)
   * [實驗基本數據製圖指令 gnuplot](08-useful-tools/gnuplot\_basic.md)
 * [交換連結](exchange-link.md)
