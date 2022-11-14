@@ -12,10 +12,9 @@ Taiwan Team 是台灣聯盟隊，主要由 [PCDVD 數位科技](http://www.googl
 
 團隊代號：31403
 
-*
-  * 論壇與教學：
-    * [PCDVD 數位科技](http://www.google.com/url?q=http%3A%2F%2Fwww.pcdvd.com.tw%2F\&sa=D\&sntz=1\&usg=AOvVaw2zNP4so803p-88Z4PUUhHS) : [http://www.pcdvd.com.tw/](http://www.google.com/url?q=http%3A%2F%2Fwww.pcdvd.com.tw%2Fshowthread.php%3Ft%3D801136\&sa=D\&sntz=1\&usg=AOvVaw1zWk2A-U6LibrDITjBOV31)
-    * [滄者極限](http://www.google.com/url?q=http%3A%2F%2Fwww.coolaler.com%2Fcontent%2F\&sa=D\&sntz=1\&usg=AOvVaw2\_1DKQC2wED4e4oUunliPl) : [http://www.coolaler.com/](http://www.google.com/url?q=http%3A%2F%2Fwww.coolaler.com%2Fshowthread.php%2F184742-%25E4%25BD%2595%25E8%25AC%2582-Folding-home-%25E8%259B%258B%25E7%2599%25BD%25E8%25B3%25AA%25E6%2591%25BA%25E7%2596%258A\&sa=D\&sntz=1\&usg=AOvVaw3f\_2mBhd3xkn\_5MMnIblIx)
+* 論壇與教學：
+  * [PCDVD 數位科技](http://www.google.com/url?q=http%3A%2F%2Fwww.pcdvd.com.tw%2F\&sa=D\&sntz=1\&usg=AOvVaw2zNP4so803p-88Z4PUUhHS) : [http://www.pcdvd.com.tw/](http://www.google.com/url?q=http%3A%2F%2Fwww.pcdvd.com.tw%2Fshowthread.php%3Ft%3D801136\&sa=D\&sntz=1\&usg=AOvVaw1zWk2A-U6LibrDITjBOV31)
+  * [滄者極限](http://www.google.com/url?q=http%3A%2F%2Fwww.coolaler.com%2Fcontent%2F\&sa=D\&sntz=1\&usg=AOvVaw2\_1DKQC2wED4e4oUunliPl) : [http://www.coolaler.com/](http://www.google.com/url?q=http%3A%2F%2Fwww.coolaler.com%2Fshowthread.php%2F184742-%25E4%25BD%2595%25E8%25AC%2582-Folding-home-%25E8%259B%258B%25E7%2599%25BD%25E8%25B3%25AA%25E6%2591%25BA%25E7%2596%258A\&sa=D\&sntz=1\&usg=AOvVaw3f\_2mBhd3xkn\_5MMnIblIx)
 * 史丹佛大學 Folding@Home 計畫首頁
 * [https://foldingathome.org/start-folding/?lng=en](https://www.google.com/url?q=https%3A%2F%2Ffoldingathome.org%2Fstart-folding%2F%3Flng%3Den\&sa=D\&sntz=1\&usg=AOvVaw19ZO196oOU-LAFTjJNsJvt)
 
