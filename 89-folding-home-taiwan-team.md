@@ -4,7 +4,7 @@ Taiwan Team Facebook 粉絲團：[https://www.facebook.com/FAHTaiwan](https://ww
 
 **關於 Taiwan Team**
 
-歡迎加入 Taiwan Team (31403)，本團隊是目前台灣團隊最高積分隊伍！
+歡迎加入 Taiwan Team (31403)，本團隊是目前台灣團隊最高積分隊伍！[https://stats.foldingathome.org/team/31403](https://stats.foldingathome.org/team/31403)
 
 Taiwan Team 是台灣聯盟隊，主要由 [PCDVD 數位科技](http://www.google.com/url?q=http%3A%2F%2Fwww.pcdvd.com.tw%2F\&sa=D\&sntz=1\&usg=AOvVaw2zNP4so803p-88Z4PUUhHS)、[滄者極限](http://www.google.com/url?q=http%3A%2F%2Fwww.coolaler.com%2Fcontent%2F\&sa=D\&sntz=1\&usg=AOvVaw2\_1DKQC2wED4e4oUunliPl)、[XF](http://www.google.com/url?q=http%3A%2F%2Fwww.xfastest.com%2F\&sa=D\&sntz=1\&usg=AOvVaw1mXttMXIB29nMSMbfkQ442)、PS3 志願玩家、以及個人所組成的台灣 folding 聯盟隊伍，目標是增加台灣在 folding@home 的國際視野，貢獻於人類醫學。
 
