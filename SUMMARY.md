@@ -100,3 +100,4 @@
   * [電子書](books/free\_ebook.md)
   * [提問的智慧](books/ask-wise.md)
   * [好書](books/nice\_books.md)
+* [隱私政策](privacy.md)
