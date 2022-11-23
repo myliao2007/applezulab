@@ -4,9 +4,7 @@ Aaron Liao
 
 為了使SCTP通訊協定能用應用於目前之網路，SCTP tunnel proxy之設計將SCTP tunnel proxy設置於兩端TCP網路環境間，並以SCTP通訊協定傳輸資料，可將SCTP通訊協定之優點應用於現有之TCP網路環境中。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>圖1、SCTP tunnel傳輸資料示意圖</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>圖1、SCTP tunnel傳輸資料示意圖</p></figcaption></figure>
 
 如圖1，Joe傳送之TCP封包在經過SCTP tunnel proxy時，會被封裝於SCTP chunk內傳送，直到抵達另一端SCTP tunnel proxy再封裝為TCP格式傳送給Mary。因此，兩端TCP node使用者則透過SCTP tunnel proxy之間的SCTP連線，不需更改網路設定就能夠以SCTP tunnel 傳輸，當兩端之網路環境間具備兩路以上（含）之傳輸路徑時，SCTP 路徑多宿之功能可在主要通訊線路發生中斷時，能夠以備援路徑進行資料傳輸，利用SCTP路徑多宿的功能可避免單一線路的故障而導致通訊中斷的發生。
 

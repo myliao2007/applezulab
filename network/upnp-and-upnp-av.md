@@ -40,7 +40,7 @@ UPnP AV \[3] 基於UPnP架構對於影音傳輸所規範的標準，UPnP AV定�
 
 (c) MR為播放影音資料的設備，CP透過RCS (Rendering Control Service) 提供的動作控制MR撥放這些影音內容，包含設定畫面明亮度、對比、及調整音量等。
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>UPnP AV架構圖</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>UPnP AV架構圖</p></figcaption></figure>
 
 如上圖所示，影音資料的內容由MS所提供，CP透過CDS服務的browse() 動作取得MS影音目錄，並透過AVT 服務將影音的URI通知MR，而CP也是透過AVT服務控制MR影音播放、暫停、停止等動作，至於影音資料的傳輸則是由MR透過Out-of-Band的方式與MS傳輸，影音資料的傳輸不會透過CP轉送。
 
