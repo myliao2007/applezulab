@@ -2,8 +2,6 @@
 
 我嘗試了幾款工具\[ 註1] ，最後是選用 [Clickup](https://clickup.com/?fp\_ref=9g619)
 
-x
-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

@@ -53,7 +53,7 @@
   * [關於 Linux CPU smp\_affinity](02-linux-proc/About-linux-smp\_affinity.md)
   * [陣列名稱與指標](02-linux-proc/name-of-array-and-pointers.md)
 * [網路服務推薦](saas/README.md)
-  * [專案管理工具 - clickup](saas/zhuan-an-guan-li-gong-ju-clickup.md)
+  * [專案管理工具 - clickup](saas/clickup.md)
 * [glibc 中文手冊](glibc-doc/README.md)
   * [GNU C 函式庫常見問題（FAQ）](glibc-doc/glibc-lib-faq.md)
 * [Linux 系統操作](02-linux-xi-tong-cao-zuo.md)
