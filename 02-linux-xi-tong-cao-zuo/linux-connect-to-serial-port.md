@@ -1,6 +1,6 @@
 # Linux connect to serial port
 
-
+在 Linux 系統透過 serial port 與裝置連線，e.g. 開發版、router
 
 ```bash
 minicom -D /dev/ttyS0
