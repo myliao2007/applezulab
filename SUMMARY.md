@@ -79,6 +79,7 @@
   * [設定 Debian 預設啟動服務](02-linux-xi-tong-cao-zuo/she-ding-debian-yu-she-qi-dong-fu-wu.md)
   * [設定 DHCPd server](02-linux-xi-tong-cao-zuo/she-ding-dhcpd-server.md)
   * [透過 RS-232 操作 Linux console](02-linux-xi-tong-cao-zuo/Linux-console-over-rs232.md)
+  * [Linux connect to serial port](02-linux-xi-tong-cao-zuo/linux-connect-to-serial-port.md)
 * [資訊安全](security-1.md)
   * [ARP spoofing 技術管控區網流量實例](security/arp-spoofing-sample.md)
   * [dsniff](security-1/dsniff.md)
