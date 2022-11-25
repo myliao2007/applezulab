@@ -9,7 +9,7 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 > Aaron Liao
 >
 > Email：aaron@netdpi.net
-
+> Facebook: [粉絲專頁](https://www.facebook.com/applezulab)
 
 
 若內文無另外聲明，則預設授權方式以[創用CC 姓名標示 4.0 國際 授權條款](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F4.0%2F\&sa=D\&sntz=1\&usg=AOvVaw2jhFi9jj\_kiQ6\_veRT7-fj)釋出。
