@@ -4,4 +4,4 @@
 
 * 文件中關於程式碼的部分，可以依照程式語言自動用彩色顯示，讓人看起來就是乾淨清爽又易讀。
 * 文件使用 markdown 的格式，對於日後平台要轉移也不會有太大的負擔，只要是相容於 markdown 的平台都能輕鬆轉移。
-* 可以與 github 整合，可以在 github 開個專案進行同步，只要將 gitbook 連動到 github 的帳號，並在 gitbook 打開 github 編輯的功能，也可以直接在 github 編輯文件，然後就會自動同步到 gitbook，所以不用擔心服務續存問題，每個檔案在 github 都有備份，也很容易使用 git 就能從 github 拉到自己的電腦，
+* 可以與 github 整合，可以在 github 開個專案進行同步，只要將 gitbook 連動到 github 的帳號，並在 gitbook 打開 github 編輯的功能，也可以直接在 github 編輯文件，然後就會自動同步到 gitbook，所以不用擔心服務續存問題，每個檔案在 github 都有備份，也很容易使用 git 就能從 github 拉到自己的電腦。
