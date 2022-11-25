@@ -8,11 +8,11 @@
 
 就會出現像是月曆的畫面，我們可以選擇要看的時間點，比如我選擇了公元 2008 年（要點選有顏色的圓圈
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 就可以看到海芋小站 2008 年大概的樣子
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 其實比較實用的功能是，如果有些文件資料，因為網站消失了而找不到，
 
@@ -26,6 +26,6 @@
 
 就出現了 2002 年的網頁內容，還真是令人懷念呢。（進入了老人回憶模式...）
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 好了，這篇文章就為大家介紹到這邊，想看哪個網站以前［年輕純樸］的模樣，就輸入網址查看看唄。
