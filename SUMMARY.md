@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首頁](README.md)
-* [翻譯書籍](translations.md)
+* [我的翻譯](translations.md)
 * [網路觀念](network.md)
   * [OSGi 平台](network/osgi-platform.md)
   * [SCTP 通訊協定簡介](network/sctp\_introduction/README.md)
