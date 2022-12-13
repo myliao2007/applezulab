@@ -7,7 +7,9 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 > 聯絡請來信，謝謝您的來訪
 >
 > Aaron Liao
+> 
 > ACM member
+> 
 > Email：myliao2007@acm.org
 > 
 > Facebook: [粉絲專頁](https://www.facebook.com/applezulab)
