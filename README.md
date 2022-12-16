@@ -8,11 +8,9 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 >
 > Aaron Liao
 > 
-> ACM member
+> ACM member / IEEE member
 > 
 > Email：
-> 
-> myliao2007@acm.org
 > 
 > myliao@ieee.org
 > 
