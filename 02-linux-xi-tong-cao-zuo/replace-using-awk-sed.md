@@ -4,33 +4,43 @@
 
 有些實驗數據僅需要某幾個欄位值，用 awk 可以簡單達到目的假設 Shell 環境中的字串 str 內容為1 2 3 4 5 6 7 8 9 10，要取出其中幾個數值，如 2 4 6 8 10
 
-echo $str  | awk  ' { print $2 $4 $6 $8 $10 }; '
+```bash
+echo $str | awk ' { print $2 $4 $6 $8 $10 }; '
+```
 
 若是檔案中有一連串的字串：
 
-cat file | awk  ' { print $2 $4 $6 $8 $10 }; '
+```bash
+cat file | awk ' { print $2 $4 $6 $8 $10 }; '
+```
 
 或是要調換 1 與 2
 
-echo $str  | awk  ' { print $2 $1 $3 $4 $5 $6 $7 $8 $9 $10 };'
-
-****
+```bash
+echo $str | awk ' { print $2 $1 $3 $4 $5 $6 $7 $8 $9 $10 };'
+```
 
 **Sed**
 
 因為 tr 似乎只能作一對一的字元轉換，所以找到 sed 的方法來轉換一對多的字串。
 
-Replace one "M" to "000K"&#x20;
+將一個 "M" 取代成 "000K"
 
-String: echo 1M | sed 's/M/000K/'&#x20;
+```bash
+echo 1M | sed 's/M/000K/'
+```
 
-Replace all "M" to "000K"&#x20;
+將字串中的每一個 "M" 取代成 "000K"
 
-String: echo 1M | sed 's/M/000K/g'&#x20;
+```bash
+echo '1M and 2M' | sed 's/M/000K/g'
+```
 
-File: sed 's/old/new/g' input.txt > output.txt
+將檔案 (input.txt) 中 'old' 字串取代成 'new' 字串
 
-
+```bash
+sed -i 's/old/new/g' input.txt
+```
 
 Reference:
 
