@@ -47,3 +47,5 @@ Reference:
 1. Dale Dougherty & Arnold Robbins, sed & awk, Second Edition, O'Reilly, March 1997.
 2. Vivek Gite, Bash Shell: Replace a string with another string in all files using sed and perl -pie,[http://www.cyberciti.biz/faq/unix-linux-replace-string-words-in-many-files/](https://web.archive.org/web/20200416073026/http://www.google.com/url?q=http%3A%2F%2Fwww.cyberciti.biz%2Ffaq%2Funix-linux-replace-string-words-in-many-files%2F\&sa=D\&sntz=1\&usg=AFrqEzf4y6mffOAjpyk1Wr5g2SIwMHPEqA), 2007.
 3. monsanbu, [http://www.unix.com/unix-dummies-questions-answers/21866-replace-character-tr.html](https://web.archive.org/web/20200416073026/http://www.google.com/url?q=http%3A%2F%2Fwww.unix.com%2Funix-dummies-questions-answers%2F21866-replace-character-tr.html\&sa=D\&sntz=1\&usg=AFrqEzd-GlyIsusVF4b2zmBuIHB0Y99RJQ), 2005.
+
+
