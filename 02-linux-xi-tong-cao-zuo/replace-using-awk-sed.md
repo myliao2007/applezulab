@@ -39,7 +39,7 @@ echo '1M and 2M' | sed 's/M/000K/g'
 將檔案 (input.txt) 中 'old' 字串取代成 'new' 字串
 
 ```bash
-sed -i -e 's/old/new/g' input.txt
+sed -i -e "s/old/new/g" input.txt
 ```
 
 Reference:
