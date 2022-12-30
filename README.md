@@ -14,7 +14,7 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 > 
 > myliao@ieee.org
 > 
-> Facebook: [粉絲專頁](https://www.facebook.com/applezulab)
+> Facebook: [粉絲專頁](https://www.facebook.com/applezulab) 
 > 
 
 
