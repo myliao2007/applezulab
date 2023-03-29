@@ -6,7 +6,7 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 
 > 聯絡請來信，謝謝您的來訪
 >
-> [Aaron Liao](https://netdpi.net) 
+> [Aaron Liao](https://applezulab.netdpi.net) 
 > 
 > ACM member / IEEE member
 > 
