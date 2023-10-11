@@ -8,11 +8,9 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 >
 > [Aaron Liao](https://www.linkedin.com/in/aaron-liao-bb50b6147/)
 >
-> ACM member / IEEE member
+> ACM member
 >
-> Email：
->
-> myliao2007@acm.org
+> Email：myliao2007@acm.org
 >
 > Facebook: [粉絲專頁](https://www.facebook.com/applezulab)
 
