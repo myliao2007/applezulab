@@ -10,9 +10,7 @@ description: 這裡大多是學生時代隨手紀錄的一些技術小品，如�
 >
 > ACM member / IEEE member
 >
-> Email：
->
-> myliao2007@acm.org
+> Email：myliao2007@acm.org
 >
 > Facebook: [粉絲專頁](https://www.facebook.com/applezulab)
 
